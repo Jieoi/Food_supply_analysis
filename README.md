@@ -9,9 +9,13 @@ The project is done in Juyternotebook in Python. It is my very first data scienc
 # dependencies
 libraries used are:
  requests for make API calls
+ 
  json for handling data from Singstats
+ 
  pandas used for data handling
+ 
  numpy for calculation
+ 
  matplotlib.pyplot for data visualisation
 
 
