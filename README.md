@@ -1,4 +1,4 @@
-# exploration_of_food-_supply_in_sg
+# Exploration of food supply in Singapore
 
 This project consists of web scraping data using API from Singstats and obtains the past trend in meat supply in Singapore
 
@@ -6,7 +6,7 @@ This project was done to explore the safety and stability of the food supply in 
 
 The project is done in Juyternotebook in Python. It is my very first data science project and is very self-explanatory.
 
-# dependencies
+# Dependencies
 libraries used are:
  requests for make API calls
  
